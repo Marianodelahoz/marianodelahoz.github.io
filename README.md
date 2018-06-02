@@ -4,7 +4,7 @@
 
 **[Vista Previa](https://marianodelahoz.github.io/)**
 
-Repositorio de código con plantilla de [Start Bootstrap](http://startbootstrap.com/)propiedad de David Miller modificada por [Mariano de la Hoz](http://marianodela.hol.es) para entrega de practica del curso MOOC Introducción a Linux como entorno de desarrollo de sistemas
+Repositorio de código con plantilla de [Start Bootstrap] (http://startbootstrap.com/)propiedad de David Miller modificada por [Mariano de la Hoz](http://marianodela.hol.es) para entrega de practica del curso MOOC Introducción a Linux como entorno de desarrollo de sistemas
 
 [Start Bootstrap](http://startbootstrap.com/) es una biblioteca de código abierto con plantillas y temas gratuitos de Bootstrap. Todas las plantillas y temas gratuitos de [Start Bootstrap](http://startbootstrap.com/) se publican bajo la licencia MIT, lo que significa que se puede usar para cualquier propósito, incluso para proyectos comerciales.
 
